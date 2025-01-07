@@ -1,4 +1,10 @@
+.html{
+background-color: black;
+background: black;
+}
 .start{
 display:flex;
-    justify-content:center;
+justify-content:center;
+background-color: black;
+background: black;
 }
