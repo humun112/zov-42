@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udrive - аренда авто с выкупом</title>
+    <meta name="keywords" content="Аренда авто, Аренда авто с выкупом, Аренда авто Астана, Аренда авто с выкупом Астана, Один выходной в неделю, Аренда автомобилей на длительный срок,Аренда автомобилей  с выкупом">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link href="42 bratuha.css">
+</head>
+    
+<body>
+
+<div class="start">
+    <img src="logo.jfif" alt="logotype" width="400" height="150">
+</div>
+<form action="whatsapp://send?phone=+77775885111" target="_blank">
+    <button>Написать</button>
+</form>
+
+<form action="tel:+77775885111" target="_blank">
+    <button>Позвонить</button>
+</form>
+    
+</body>
+    
+</html>
